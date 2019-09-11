@@ -53,3 +53,7 @@ Editing all fields of a posted run is allowable only by the user, as well as del
   * side menu to navigate and logout
   * allow editing posts from the profile page
   * animation on scroll buttons to navigate to different sections within home page
+  
+  
+![IMG_20190911_093456](https://user-images.githubusercontent.com/51961011/64720116-8c84ec00-d47e-11e9-8def-84b6a4734567.jpg)
+
